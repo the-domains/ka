@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6852316
+color:
+  lightness: 0.2263323
+  brandStrength: 0.6696641
+  saturation: 0.6367185
+  rhythmicContrast: 0.0699462
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ka
